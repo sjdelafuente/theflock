@@ -15784,6 +15784,16 @@ a {
     top: -.875rem; }
   .blockquote-card:after {
     content: ''; }
+  .blockquote-pepsi:before {
+    font-family: Arial;
+    content: "\201C";
+    color: #AEFE00 !important;
+    font-size: 4em;
+    position: absolute;
+    left: .875rem;
+    top: -.875rem; }
+  .blockquote-pepsi:after {
+    content: ''; }
 
 .list-icons li i, .list-icons li svg {
   margin-right: 1rem;
