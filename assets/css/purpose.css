@@ -1435,7 +1435,32 @@ pre {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch; }
     .table-responsive-md > .table-bordered {
-      border: 0; } }
+      border: 0; }
+    .d-media-none {
+      display: none; }
+    .card-img-media-overlay {
+      top: -11px !important;
+      left: -11px !important; }
+    .card-img-pepsi-overlay {
+      top: -19px !important;
+      left: -11px !important; }
+    .card-img-yolo-overlay {
+      top: -5px !important;
+      left: -11px !important; }  
+    .media-header-size {
+      font-size: 12px !important; }
+    .media-font-size {
+      font-size: 10px !important; }
+    .media-line-height {
+      line-height: 0.2 !important; }
+    .media-slice-sm {
+      padding-top: 2rem !important;
+      padding-bottom: 2rem !important; }
+    .padding-b100 { padding-bottom: 2rem !important; }
+    .nms { padding: 0 !important; }
+    .justify-content-media-center { display: flex !important; justify-content: center !important; }
+    .nav-link-white { color: white !important; }
+    }
 
 @media (max-width: 991.98px) {
   .table-responsive-lg {
